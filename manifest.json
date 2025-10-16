@@ -8,6 +8,14 @@
         {
           "path": "firmware.bin",
           "offset": 57344
+        },
+        {
+          "path": "bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "partitions.bin",
+          "offset": 32768
         }
       ]
     }
